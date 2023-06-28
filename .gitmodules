@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "numOSL"]
 	path = numOSL
 	url = https://github.com/cran/numOSL
-	shallow = true
-	registered = true
 [submodule "tgcd"]
 	path = tgcd
 	url = https://github.com/cran/tgcd
-	shallow = true
-	registered = true
